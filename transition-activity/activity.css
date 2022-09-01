@@ -1,1 +1,16 @@
+button:hover{
+    background-color: cornflowerblue;
+    color: ghostwhite;
+    border-radius: 0;
+}
 
+button {
+    background-color: ghostwhite;
+    border-radius: 2em;
+    transition: all 500ms;
+}
+button {
+    padding: 1em;
+    margin: 0.2em;
+    font-size: 1.5em;
+}
